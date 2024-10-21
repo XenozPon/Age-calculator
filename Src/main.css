@@ -96,7 +96,7 @@
   .input:focus ~ .cut,
   .input:not(:placeholder-shown) ~ .cut {
     transform: translateY(8px);
-    background-color: #15172b;
+    background-color: #ffffff;
   }
   
   .placeholder {
